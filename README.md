@@ -16,3 +16,12 @@ Example of Pie chart:
 <p align="center">
   <img width="500"src="https://github.com/shervin-j/Fast-Insight/assets/69539491/628499b5-b65c-43ab-875a-e20e7043bbd6">
 </p>
+
+# How To Use
+This code is written in Python. To run this code you must install the libraries in requirments.txt along with Python itself. In order to do that you should run the following command on cmd(or similar commands on a Linux terminal):
+
+`pip install -r requirements.txt`
+
+After installing the requirements you can run the code, write your text, and push the "Check" button to check if there are any spelling errors in your text.
+
+I hope you enjoy it.
