@@ -22,6 +22,4 @@ This code is written in Python. To run this code you must install the libraries 
 
 `pip install -r requirements.txt`
 
-After installing the requirements you can run the code, write your text, and push the "Check" button to check if there are any spelling errors in your text.
-
 I hope you enjoy it.
